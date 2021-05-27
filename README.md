@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @IamLucidDreamer
-- 👀 I’m interested in awesome new age tachnology.
-- 🌱 I’m currently learning javascript.
+- 👋 Hi, I’m Manas Shukla.
+- 👀 I’m interested in Data Analytics, Blockchain and Quantum Computing.
+- 🌱 I’m currently learning React.js and Node.js
 - 💞️ I’m looking to collaborate on real life projects.
-- 📫 Reach me E-mail :- shuklamanasofficial@gmail.com Phone:- +919569050543
+- 📫 Wanna Reach me| E-mail :- shuklamanasofficial@gmail.com Phone:- +919569050543
 
 <!---
 IamLucidDreamer/IamLucidDreamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
