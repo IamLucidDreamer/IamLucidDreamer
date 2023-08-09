@@ -13,3 +13,5 @@ I am Manas Shukla, currently working as a Software Engineer at the [Scenes by Av
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamLucidDreamer&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=IamLucidDreamer)
+
+<a href="https://app.daily.dev/iamluciddreamer"><img src="https://api.daily.dev/devcards/6c0c5bba08284364b1b63062d4097180.png?r=tjy" width="400" alt="Manas Shukla's Dev Card"/></a>
