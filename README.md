@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Hi there 👋
 
-I am Manas Shukla, currently working as a Software Engineer at the [Scenes by Avalon](https://www.buildonscenes.com/). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Manas Shukla, currently working as a Software Engineer at the [Angel One Wealth](https://www.aowealth.in/). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-shuklamanas007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shuklamanas007/)](https://www.linkedin.com/in/shuklamanas007/)
 [![Gmail Badge](https://img.shields.io/badge/-shuklamanasofficial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklamanasofficial@gmail.com)](mailto:shuklamanasofficial@gmail.com)
